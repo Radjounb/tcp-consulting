@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Cloud Pathway Consulting</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+    <h1>The Cloud Pathway Consulting</h1>
+    <h2>Elite Cloud Solution for Modern Business</h2>
+</header>
+
+<section>
+    <h3>Our AWS Cloud Services</h3>
+
+    <div class="card"><strong>Cloud Migration</strong><br>Seamless AWS migration for apps, data, and workloads.</div>
+
+    <div class="card"><strong>Automation & DevOps</strong><br>CI/CD pipelines, Terraform automation, containerization, and Kubernetes deployments.</div>
+
+    <div class="card"><strong>Cloud Security</strong><br>Identity management, monitoring, encryption, compliance, and best-practice hardening.</div>
+
+    <div class="card"><strong>Managed Cloud Support</strong><br>24/7 monitoring, optimization, patching, backup, and cost control.</div>
+</section>
+
+<section>
+    <h3>Why Choose TCP Consulting?</h3>
+    <div class="card">
+        We deliver enterprise-grade AWS expertise with a premium, high-performance approach tailored for modern businesses.
+    </div>
+</section>
+
+<section>
+    <h3>Contact Us</h3>
+    <div class="card">
+        Email: info@tcpconsulting.com<br>
+        Phone: (000) 000-0000
+    </div>
+</section>
+
+<footer>
+    © 2025 TCP Consulting. All rights reserved.
+</footer>
+
+</body>
+</html>
